@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 title: Bokyeong's Resume
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Bokyeong' s Page
@@ -6,4 +7,3 @@ url: "https://KangBokyeong.github.io" # the base hostname & protocol for your si
 github_username: KangBokyeong
 
 # Build settings
-theme: jekyll-theme-cayman

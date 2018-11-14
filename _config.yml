@@ -1,5 +1,4 @@
 title: Bokyeong's Resume
-#email: 
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Bokyeong' s Page
 baseurl: "/resume" # the subpath of your site, e.g. /blog
@@ -7,5 +6,4 @@ url: "https://KangBokyeong.github.io" # the base hostname & protocol for your si
 github_username: KangBokyeong
 
 # Build settings
-markdown: kramdown
 theme: jekyll-theme-cayman

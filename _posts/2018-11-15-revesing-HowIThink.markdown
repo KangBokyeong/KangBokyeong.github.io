@@ -7,7 +7,8 @@ categories: main
 # 리버싱 공부(1)
 
 ## Study by using youtube video
-{% include videos.html id = "S6uFitUIYlc&index=3&list=PLnIaYcDMsScxpiB8VpGhM4-NtovcM_uB9&t=0s"%}
+<iframe class="youtube" src="https://www.youtube.com/watch?v=S6uFitUIYlc&index=3&list=PLnIaYcDMsScxpiB8VpGhM4-NtovcM_uB9&t=0s
+" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - 리버싱 공부를 시작하기로 했다.
 - 아직 정말 정말 초보자... ㅠㅠ
 

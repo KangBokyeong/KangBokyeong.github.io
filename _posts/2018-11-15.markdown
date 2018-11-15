@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Reversing study"
-date:   2018-11-15 13:20:20
+date:   2018-11-15 09:20:20
 categories: main
 ---
 

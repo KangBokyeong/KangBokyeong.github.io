@@ -1,13 +1,13 @@
-# 이력서
-## 소개
-### 인적사항
+# 이력서(Resume)
+## 소개(Introduction)
+### 인적사항(Personal Information)
 <img src = "https://user-images.githubusercontent.com/44868847/48250944-56807100-e443-11e8-8818-7c3b5b7899d9.jpg" width = "100">
 
-* 성명: 강보경(Kang Bokyeong)
-* 소속: 한림대학교, 컴퓨터공학과(Computer Science in Hallym University)
+* 성명(Name): 강보경(Kang Bokyeong)
+* 소속(Belong...): 한림대학교, 컴퓨터공학과(Computer Science in Hallym University)
 * E-mail: 20175103@s.hallym.ac.kr
 * Blog: [http://sth2u.egloos.com/](http://sth2u.egloos.com/)
-* 취미: 악기 다루기, 꾸미기 및 정리하기, 애니메이션 보기, 영화 감상, 음악 감상,**코딩(간단한 것만)**... 등
+* 취미(Hobby): 악기 다루기, 꾸미기 및 정리하기, 애니메이션 보기, 영화 감상, 음악 감상,**코딩(간단한 것만)**... 등
 * 주로 다루는 언어: C언어, JAVA, Python
 * 관심 분야: Hacking, Reversing 등
 

@@ -7,7 +7,7 @@ categories: study
 # 정보보호개론 공부(1)
 
 ## OSI 7계층(Open System Interconnection)
-[사진첨부예정!]
+![osi7](https://user-images.githubusercontent.com/44868847/48658935-37aa5c00-ea8d-11e8-80a1-e54012fe8e25.PNG)
 ## 세션 하이재킹 공격
 ### 세션 하이재킹의 정의
   -	두 시스템 간 연결이 활성화된 상태. 로그인 된 상태를 가로채는 것을 말함.

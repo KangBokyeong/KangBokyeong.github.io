@@ -7,7 +7,7 @@
 * 소속(Belong...): 한림대학교, 컴퓨터공학과(Computer Science in Hallym University)
 * E-mail: 20175103@s.hallym.ac.kr
 * Blog: [http://sth2u.egloos.com/](http://sth2u.egloos.com/)
-* 좌우명: "사람은 하고픈 것을 해야 행복하다.(People are happy to do what they want to do.)" 
+* 좌우명: *"사람은 하고픈 것을 해야 행복하다.(People are happy to do what they want to do.)"*
 * 취미(Hobby): 악기 다루기, 꾸미기 및 정리하기, 애니메이션 보기, 영화 감상, 음악 감상,**코딩(간단한 것만)**... 등
 * 주로 다루는 언어: C언어, JAVA, Python
 * 관심 분야: Hacking, Reversing 등
